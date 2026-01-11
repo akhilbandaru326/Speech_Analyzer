@@ -49,7 +49,7 @@ speech-analyzer/
 
 ## ⚙️ Setup Instructions
 
-### Backend
+### Backend and Frontend
 ```bash
 cd backend
 npm install
